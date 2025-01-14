@@ -1,0 +1,9 @@
+sample
+/src/build
+/Scripts
+/src/dist
+/src/__pycache__
+/lib
+/pyvenv.cfg
+foldfolder*
+codyresponses
