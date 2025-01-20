@@ -8,8 +8,15 @@ from dataclasses import dataclass
 from datetime import datetime
 import click
 from tqdm import tqdm
+import yaml
 from config import CLICK_CONTEXT_SETTINGS
-from constants import EXTENSION_TO_FOLDER
+#from constants import EXTENSION_TO_FOLDER
+
+
+
+maps = {}
+with open("maps.yaml") as config_file:
+    maps = yaml.load(config_file, Loader=yaml.FullLoader)
 
 
 
@@ -36,45 +43,33 @@ def get_user_input(title: str = "Input") -> str:
     user_input = filedialog.askdirectory(title=title, initialdir=None, mustexist=False)
     return user_input
 
-def add_extension_mapping() -> tuple[str, str]:
-    """Gets user input for new extension mapping"""
-    root = tk.Tk()
-    root.withdraw()
-    
-    # Create a simple dialog window
-    dialog = tk.Toplevel()
-    dialog.title("Add New Extension Mapping")
-    
-    extension_var = tk.StringVar()
-    folder_var = tk.StringVar()
-    
-    # Create and pack widgets
-    tk.Label(dialog, text="Enter file extension (without dot):").pack()
-    tk.Entry(dialog, textvariable=extension_var).pack()
-    
-    tk.Label(dialog, text="Enter folder name:").pack()
-    tk.Entry(dialog, textvariable=folder_var).pack()
-    
-    result = [None, None]
-    
-    def on_submit():
-        result[0] = extension_var.get().lower()
-        result[1] = folder_var.get()
-        dialog.destroy()
-    
-    tk.Button(dialog, text="Submit", command=on_submit).pack()
-    
-    # Wait for user input
-    dialog.wait_window()
-    return result[0], result[1]
+def extension_mapping(extension: str, maps: dict = maps) -> None:
+    """Updates the maps dictionary with new mapping"""
+    while True:
+        if extension in maps.keys():
+            click.echo(click.style(f"{extension} files are saved in {maps[extension]}"), color="yellow")
+            if click.confirm("Do you want to change?"):
+                folder_name = click.prompt(F"Enter name of folder to store {extension} files")
+                maps.update({extension : folder_name})
+            else:
+                if click.confirm("Do you want to add another mapping?"):
+                    continue
+                else:
+                    break
+        else:
+            folder_name = click.prompt(F"Enter name of folder to store {extension} files")
+            maps.update({extension : folder_name})
+        with open("maps.yaml", "a") as config_file:
+            maps = yaml.dump(maps, stream=config_file)
+            click.echo(click.style(f"Added mapping: .{extension} → {folder_name}", fg="green"))
+            break
 
-def update_extension_mapping(extension: str, folder_name: str) -> None:
-    """Updates the EXTENSION_TO_FOLDER dictionary with new mapping"""
-    if extension and folder_name:
-        EXTENSION_TO_FOLDER[extension] = folder_name
-        click.echo(click.style(f"Added mapping: .{extension} → {folder_name}", fg="green"))
-
-
+def terminal_log(msg, error: bool=True) -> None:
+    if error == True:
+        click.echo(click.style(msg), color="red")
+    else:
+        click.echo(click.style(msg), color="blue")
+        
 class FolderOrganizer:
     def __init__(self):
         self.operation_history: List[FileOperation] = []
@@ -99,27 +94,37 @@ class FolderOrganizer:
                 timestamp=datetime.now(),
                 success=False
             )
-            self.operation_history.append(operation)
+            logging.error("Move operation failed \n %s → %s", source, destination)
             return False
+    
+    def save_history(self) -> None:
+        """Saves the operation history to a file"""
+        pass
+        
+    def view_operation_history(self) -> None:
+        """Displays the operation history"""
+        if not self.operation_history:
+            click.echo("No operations to display")
+            return
+        for i, operation in enumerate(self.operation_history):
+            click.echo(f"{i + 1}. {operation.timestamp}: {operation.source} → {operation.destination}")
 
     def undo_last_operation(self) -> bool:
         """Undoes the last successful file operation"""
         if not self.operation_history:
             click.echo("No operations to undo")
             return False
-
-        last_op = self.operation_history[-1]
-        if last_op.success:
-            try:
-                shutil.move(last_op.destination, last_op.source)
+        
+        try:
+            for operation in tqdm(self.operation_history, desc="Undoing operations", colour="yellow"):
+                shutil.move(operation.destination, operation.source)
                 self.operation_history.pop()
-                click.echo(f"Undid move of {os.path.basename(last_op.source)}")
-                return True
-            except (PermissionError, OSError) as e:
-                logging.error("Failed to undo operation: %s", str(e))
-                return False
-        return False
-
+                logging.info(f"Undid move of {os.path.basename(operation.source)}")
+            return True
+        except (PermissionError, OSError) as e:
+            logging.error("Failed to undo operation: %s", str(e))
+            return False
+        
     def organize_folder(self, input_folder: str) -> None:
         """Modified OrganizeFolder function to use the new move_file method"""
         if input_folder:
@@ -128,7 +133,7 @@ class FolderOrganizer:
                 file_path = os.path.join(input_folder, filename)
                 if os.path.isfile(file_path):
                     extension = filename.split(".")[-1].lower()
-                    folder_name = EXTENSION_TO_FOLDER.get(extension, extension)
+                    folder_name = maps.get(extension, extension)
                     extension_folder = os.path.join(input_folder, folder_name)
 
                     if not os.path.exists(extension_folder):
@@ -136,77 +141,75 @@ class FolderOrganizer:
 
                     destination = os.path.join(extension_folder, filename)
                     self.move_file(file_path, destination)
+            with open("history.yaml", "a") as history_file:
+                yaml.dump(self.operation_history, history_file)
         else:
             logging.error("Invalid folder path.\nPlease try again!\n")
             return
-                    
+
+
 ################################################################################
 ##                                   CLICK                                    ##
 ################################################################################
 
 
 @click.command(context_settings=CLICK_CONTEXT_SETTINGS)
+
 @click.option(
-    "--folder_type",
-    type=click.Choice(["Mixed", "Pictures", "Videos", "Documents"], case_sensitive=False),
-    prompt="Type of folder to organize",
-    help="""Select the type of folder content to organize:\n
-        - Mixed: Organizes folders containing various file types into categorized subfolders\n
-        - Pictures: Specialized sorting for image files and photo collections (Coming soon)\n
-        - Videos: Specialized sorting for video files and media content (Coming soon)\n
-        - Documents: Specialized sorting for document files and archives (Coming soon)"""
-    )
+    "-mp", "--map",
+    is_flag=True,
+    help="Map files to folders they should be stored in."
+)
+
+@click.option(
+    "-mx", "--mixed",
+    is_flag=True,
+    help="Specify operation on a mixed folder."
+)
+
+@click.option(
+    "-u", "--undo",
+    is_flag=True,
+    help="Undo the last operation."
+)
+
+@click.option(
+    "-hy", "--history",
+    is_flag=True,
+    help="View operation history."
+)
 
 # Select the type of folder to sort
-def start_point(folder_type):
+def start_point(mixed, map, history, undo):
     organizer = FolderOrganizer()
     
-    if folder_type == "Pictures":
-        click.echo(click.style("Coming soon...\nCheck back later!\nTry available features!", fg="cyan"))
-        if click.confirm('Would you like to explore available features?', default=True):
-            start_point.main(standalone_mode=False)
-        else:
-            return
-        
-    elif folder_type == "Videos":
-        click.echo(click.style("Coming soon...\nCheck back later!\nTry available features!", fg="cyan"))
-        if click.confirm('Would you like to explore available features?', default=True):
-            start_point.main(standalone_mode=False)
-        else:
-            return
-        
-    elif folder_type == "Documents":
-        click.echo(click.style("Coming soon...\nCheck back later!\nTry available features!", fg="cyan"))
-        if click.confirm('Would you like to explore available features?', default=True):
-            start_point.main(standalone_mode=False)
-        else:
-            return
-        
-    elif folder_type == "Mixed":
-        while True:
-            choice = click.prompt(
-                "Choose an action",
-                type=click.Choice(['organize', 'add_mapping', 'exit'], case_sensitive=False)
-            )
-            
-            if choice == 'organize':
-                click.echo(click.style("\nChoose folder to sort...\n", fg="cyan"))
-                folder = get_user_input("Select Folder")
-                organizer.organize_folder(folder)
-            elif choice == 'add_mapping':
-                extension, folder_name = add_extension_mapping()
-                update_extension_mapping(extension, folder_name)
-            else:
-                if click.confirm('Would you like to try something else?', default=True):
-                    start_point.main(standalone_mode=True)
-                else:
-                    return
-                    
-            if click.confirm('Would you like to continue?', default=True):
-                continue
-            else:
-                return
+    if map:
+        extension = click.prompt("Enter file extension (without dot)")
+        extension_mapping(extension)
+        return
+    
+    if mixed:
+        click.echo(click.style("\nChoose folder to sort...\n", fg="cyan"))
+        folder = get_user_input("Select Folder")
+        organizer.organize_folder(folder)
+        if click.confirm("Do you want to view history?"):
+            organizer.view_operation_history()
+        if click.confirm("Do you want to undo last operation?"):
+            organizer.undo_last_operation()
+        return
+    
+    if undo:
+        pass
+    
+    if history:
+        organizer.view_operation_history()
+    
+    else:
+        if click.prompt("No option selected. Press enter to exit", default="") == "":
+            exit(1)
 
+def menu():
+    pass
             
 if __name__ == "__main__":
     start_point()

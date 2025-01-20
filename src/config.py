@@ -7,7 +7,7 @@ CLICK_CONTEXT_SETTINGS = dict(help_option_names=["-h", "--help"],
 
 import logging
 
-logging.basicConfig(
+logging.basicConfig(filename="folder_organizer.log",
     level=logging.INFO,
-    format='\n%(asctime)s - %(levelname)s - %(message)s'
+    format='%(asctime)s - %(levelname)s - %(message)s'
 )

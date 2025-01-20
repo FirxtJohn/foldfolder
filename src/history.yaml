@@ -1,0 +1,1540 @@
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14365.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14365.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.430364
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14379.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14379.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.430364
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14388.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14388.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14444.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14444.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14447.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14447.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14449.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14449.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14494.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14494.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14519.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14519.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14532.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14532.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14580.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14580.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14601.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14601.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14605.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14605.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14607.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14607.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14635.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14635.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14645.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14645.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14695.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14695.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14735.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14735.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14738.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14738.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14786.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14786.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14834.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14834.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14939.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14939.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14947.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14947.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_14956.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_14956.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15050.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15050.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15066.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15066.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15128.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15128.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15139.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15139.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15163.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15163.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15170.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15170.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.445983
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15183.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15183.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.461612
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15260.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15260.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.461612
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15303.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15303.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.461612
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15377.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15377.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.461612
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15468.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15468.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.461612
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15546.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15546.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.461612
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15562.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15562.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.509008
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15627.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15627.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.509008
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15633.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15633.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.509008
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15659.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15659.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15666.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15666.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15733.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15733.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15907.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15907.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15938.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15938.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15946.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15946.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15962.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15962.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15971.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15971.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_15998.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_15998.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16067.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16067.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16095.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16095.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16102.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16102.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16147.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16147.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16277.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16277.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16279.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16279.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.524635
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16311.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16311.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.540258
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16324.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16324.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.587398
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16368.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16368.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.603772
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16378.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16378.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.603772
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16385.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16385.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.603772
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16398.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16398.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.603772
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16409.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16409.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.603772
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16440.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16440.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.603772
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16470.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16470.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.618790
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16497.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16497.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.665930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16529.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16529.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.665930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16609.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16609.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.665930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16642.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16642.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.665930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16644.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16644.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16651.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16651.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16739.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16739.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16774.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16774.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16777.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16777.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16809.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16809.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_16913.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_16913.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17001.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17001.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17078.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17078.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17083.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17083.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17113.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17113.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17130.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17130.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17142.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17142.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17160.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17160.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17280.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17280.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17283.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17283.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17312.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17312.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.681295
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17376.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17376.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.696914
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17381.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17381.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.696914
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17390.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17390.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.696914
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17439.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17439.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.696914
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17463.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17463.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.696914
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17518.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17518.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.696914
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17521.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17521.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.696914
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17542.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17542.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.759851
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17603.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17603.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.759851
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17672.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17672.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.759851
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17691.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17691.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.775216
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17711.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17711.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.775216
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17714.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17714.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.775216
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17730.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17730.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.775216
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17740.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17740.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.775216
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17769.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17769.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.775216
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17773.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17773.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.775216
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17790.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17790.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.838355
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17855.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17855.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.838355
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17897.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17897.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.838355
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17902.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17902.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.838355
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17905.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17905.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.853715
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17916.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17916.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.853715
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_17939.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_17939.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.853715
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18030.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18030.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.853715
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18031.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18031.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.869333
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18064.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18064.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.869333
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18134.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18134.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.869333
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18171.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18171.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.869333
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18211.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18211.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.869333
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18212.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18212.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.869333
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18224.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18224.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18232.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18232.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18250.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18250.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18384.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18384.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18435.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18435.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18449.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18449.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18455.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18455.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18502.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18502.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18591.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18591.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18612.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18612.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18625.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18625.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18686.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18686.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.884951
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18691.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18691.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.904793
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18693.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18693.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.904793
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18706.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18706.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.904793
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18711.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18711.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18805.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18805.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18806.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18806.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18837.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18837.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18851.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18851.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18881.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18881.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18898.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18898.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_18928.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_18928.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19005.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19005.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19023.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19023.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19062.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19062.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19088.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19088.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19120.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19120.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19130.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19130.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19145.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19145.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19162.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19162.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19206.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19206.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19266.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19266.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19271.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19271.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19272.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19272.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19389.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19389.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19425.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19425.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.916303
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19438.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19438.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19469.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19469.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19520.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19520.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19521.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19521.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19524.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19524.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19571.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19571.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19573.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19573.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19577.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19577.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19582.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19582.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19682.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19682.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19712.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19712.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.931930
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19734.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19734.conf
+  success: true
+  timestamp: 2025-01-19 21:16:18.979077
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19746.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19746.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.042243
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19840.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19840.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.042243
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19924.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19924.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.042243
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19931.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19931.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.042243
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19954.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19954.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.042243
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19977.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19977.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.042243
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_19990.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_19990.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.042243
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_35.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_35.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.042243
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4207.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4207.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4210.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4210.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4255.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4255.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4339.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4339.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4356.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4356.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4439.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4439.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4484.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4484.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4485.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4485.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_45.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_45.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4508.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4508.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4519.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4519.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4527.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4527.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4534.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4534.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4581.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4581.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4668.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4668.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4722.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4722.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4749.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4749.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4878.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4878.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4883.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4883.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4886.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4886.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4888.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4888.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4890.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4890.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4907.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4907.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4916.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4916.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_4935.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_4935.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.057563
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5045.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5045.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5107.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5107.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5159.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5159.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5163.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5163.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5196.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5196.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5202.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5202.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5222.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5222.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5238.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5238.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5319.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5319.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5339.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5339.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5424.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5424.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5435.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5435.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5460.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5460.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5474.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5474.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5477.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5477.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5488.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5488.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5489.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5489.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5491.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5491.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5500.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5500.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5515.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5515.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5584.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5584.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5599.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5599.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5644.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5644.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5665.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5665.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5687.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5687.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5694.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5694.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5701.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5701.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5716.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5716.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.073184
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5774.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5774.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.088807
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5866.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5866.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5875.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5875.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5904.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5904.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5937.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5937.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5953.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5953.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5954.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5954.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_5968.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_5968.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6055.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6055.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6070.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6070.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6075.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6075.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6230.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6230.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6234.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6234.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6266.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6266.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6322.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6322.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6382.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6382.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6422.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6422.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.092812
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6589.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6589.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6668.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6668.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6669.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6669.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6673.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6673.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6701.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6701.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6724.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6724.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6753.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6753.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6800.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6800.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6856.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6856.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6937.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6937.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6940.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6940.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6966.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6966.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_6998.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_6998.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7092.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7092.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7138.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7138.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7155.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7155.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7216.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7216.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7223.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7223.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7294.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7294.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7309.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7309.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7376.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7376.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7399.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7399.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7404.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7404.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7438.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7438.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7442.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7442.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7593.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7593.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7656.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7656.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7755.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7755.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7795.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7795.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7799.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7799.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.152009
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7819.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7819.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7915.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7915.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7942.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7942.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7964.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7964.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_7988.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_7988.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8001.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8001.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8045.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8045.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8049.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8049.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8096.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8096.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8126.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8126.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8140.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8140.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8141.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8141.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8152.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8152.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8174.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8174.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8185.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8185.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8186.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8186.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8292.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8292.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_8305.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_8305.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9606.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9606.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9626.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9626.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9647.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9647.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9665.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9665.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9679.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9679.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9709.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9709.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9722.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9722.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9732.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9732.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9754.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9754.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9762.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9762.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9818.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9818.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9885.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9885.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9910.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9910.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9916.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9916.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9918.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9918.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9950.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9950.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.167310
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9954.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9954.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.182931
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9963.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9963.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.182931
+- !!python/object:__main__.FileOperation
+  destination: C:/Users/Firxt/Desktop/Test/conf/conf/conf\conf\file_9964.conf
+  source: C:/Users/Firxt/Desktop/Test/conf/conf/conf\file_9964.conf
+  success: true
+  timestamp: 2025-01-19 21:16:19.182931
