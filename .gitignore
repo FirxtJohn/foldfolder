@@ -5,5 +5,7 @@ sample
 /src/__pycache__
 /lib
 /pyvenv.cfg
-foldfolder*
+*spec
+*iss
 codyresponses
+*.log
